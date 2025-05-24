@@ -1,3 +1,4 @@
+# %% [code]
 import os
 from kaggle_secrets import UserSecretsClient
 import ee
